@@ -1,0 +1,1 @@
+# Example application based on zero2prod Rust book
